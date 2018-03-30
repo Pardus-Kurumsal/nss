@@ -1,3 +1,9 @@
+nss (2:3.35-2pardus1) unstable; urgency=medium
+
+  * build: CI integration, backport nss from buster
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Fri, 30 Mar 2018 14:23:38 +0300
+
 nss (2:3.35-2) unstable; urgency=medium
 
   * nss/lib/freebl/Makefile: Build Hacl_Poly1305_64.o on arm64.
